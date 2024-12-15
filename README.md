@@ -7,10 +7,6 @@ Pedro</a></h1>
   <a href="https://linkedin.com/in/pedrocas" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin pedrocas"/></a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 📫 Reach me at **me@franciscopedro.com**
 
 <br/>
