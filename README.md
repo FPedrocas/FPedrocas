@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm <a href="https://instagram.com/fpedrocas" target="blank">
-Pedro</a></h1>
-<h3 align="center">A Content Creator, Video Editor, Translator and Software Development student from Portugal &#127477;&#127481;</h3>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<p align="left">
-  <a href="https://instagram.com/fpedrocas" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram pedrocas"/></a>
-  <a href="https://linkedin.com/in/pedrocas" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin pedrocas"/></a>
-</p>
+I’m [**Pedrocas**](https://www.instagram.com/fpedrocas), a Portuguese Content Creator, Software Developer, Translator, and Side Quest Seeker.
 
-- 📫 Reach me at **me@franciscopedro.com**
+I consider myself a Creator. I love bringing ideas to life regardless of medium, be it Coding, Video, Music, or whatever it is - creating is my ultimate passion.
 
-<br/>
+Whenever I have problem, I look for a solution. When there isn't one that fits my needs, well, I might just build it.  
+
+I'm a huge self-hoster and supporter of open-source, and I use FOSS tools whenever possible.
+Some of my favorite FOSS projects are: [Immich](https://github.com/immich-app), [Jellyfin](https://github.com/jellyfin), and [Home Assistant](https://github.com/home-assistant) 
+
+#### Fun Facts:
+
+* I have a cat called Chibi
+* I like singing
+* I play piano
+* I (barely) play guitar
+* Code Lyoko is the show of my childhood and I'm a die-hard fan
+* Bacalhau é m*rda
+* Reality is an illusion, the universe is a hologram, buy gold. Bye! 
